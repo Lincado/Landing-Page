@@ -167,7 +167,7 @@
 
 @media (max-width: 800px) {
 
-    .intro-,
+    .intro-content,
     .grid {
         grid-template-columns: 1fr;
     }
