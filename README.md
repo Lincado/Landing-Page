@@ -1,4 +1,4 @@
-# Musik
+# Landing page
 
 [Link para o projeto](https://helpful-sfogliatella-9a5fdc.netlify.app/)
 ## GitHub
